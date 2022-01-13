@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.AssemblyInfo.cs
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.exe
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.deps.json
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.runtimeconfig.json
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.runtimeconfig.dev.json
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.dll
+C:\Users\matt2\repos\VarExersize\VarExersize\bin\Debug\netcoreapp3.1\VarExersize.pdb
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.dll
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.pdb
+C:\Users\matt2\repos\VarExersize\VarExersize\obj\Debug\netcoreapp3.1\VarExersize.genruntimeconfig.cache
